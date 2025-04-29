@@ -1,0 +1,16 @@
+streamlit
+openai
+deepl
+docx
+pdfplumber
+pytesseract
+pillow
+googletrans
+langdetect
+gtts
+requests
+beautifulsoup4
+spacy
+smtplib
+email
+reportlab
